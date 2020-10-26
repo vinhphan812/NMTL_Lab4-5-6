@@ -10,6 +10,7 @@ namespace Lab4
     {
         static void Main(string[] args)
         {
+            //Viết chương trình	yêu	cầu	người dùng nhập	vào	một	số nguyên, sao cho số này phải
             int n = 0;
             do
             {

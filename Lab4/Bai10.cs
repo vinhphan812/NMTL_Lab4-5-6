@@ -10,6 +10,9 @@ namespace Lab4
     {
         static void Main(string[] args)
         {
+            //Input: Số nguyên	n (1 ≤ n ≤ 1.000) là số chai bia anh Bo	mua	ban	đầu.
+            //Output: Số nguyên	m là tổng số chai nước ngọt	mà	anh	Bo có thể uống.
+            //Ví dụ: n	= 10 --> m = 13; n = 24 --> m =	33.
             int n = 0, sum;
             do
             {

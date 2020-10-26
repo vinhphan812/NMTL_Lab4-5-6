@@ -10,6 +10,7 @@ namespace Lab4
     {
         static void Main(string[] args)
         {
+            //Viết chương trình in ra các số nguyên chẳn từ 1 đến 100
             for (int i = 1; i <= 100; i++)
             {
                 if (i % 2 == 0)

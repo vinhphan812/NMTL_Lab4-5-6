@@ -10,6 +10,8 @@ namespace Lab4
     {
         static void Main(string[] args)
         {
+            //viết chương trình yêu cầu người dùng nhập số nguyên dương n. In ra tổng lớn nhất
+            //của các số nguyên dương liên tiếp bắt đầu từ 1, sao cho tổng nhỏ hơn n.
             Console.Write("Nhap n: ");
             int n = Convert.ToInt32(Console.ReadLine());
             int sum = 0;
