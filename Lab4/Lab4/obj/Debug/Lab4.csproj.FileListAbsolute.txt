@@ -1,0 +1,7 @@
+D:\NMLT\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\NMLT\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\NMLT\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\NMLT\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\NMLT\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\NMLT\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\NMLT\Lab4\Lab4\obj\Debug\Lab4.pdb
